@@ -1,0 +1,21 @@
+{
+		"ecmaFeatures": {
+				"blockBindings": true,
+				"forOf": true
+		},
+		"rules": {
+				"semi": 2,
+				"quotes": 0,
+				"global-strict": 0,
+				"no-trailing-spaces": 0,
+				"no-path-concat": 0,
+				"no-use-before-define": 0
+		},
+		"env": {
+				"browser": true,
+				"node": true
+		},
+		"globals": {
+			"Snap": false
+		}
+}
